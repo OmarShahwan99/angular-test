@@ -6,4 +6,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 1. clone this repo to your computer.
 2. run `npm install` to install all required dependencies.
-3. rnu `ng serve` to run project on your local host.
+3. run `ng serve` to run project on your local host.
