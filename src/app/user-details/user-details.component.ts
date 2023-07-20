@@ -23,7 +23,6 @@ import { trigger, transition, style, animate } from '@angular/animations';
 export class UserDetailsComponent implements OnInit {
   user: any;
   loading: boolean = false;
-  hasError: boolean = false;
 
   constructor(
     private route: ActivatedRoute,
